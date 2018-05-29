@@ -4,4 +4,4 @@ A Bootstrap app starter kit for hackathoners
 
 ## Ressources
 
-[Open source templates](https://github.com/BlackrockDigital/startbootstrap)
+[Open source templates](https://startbootstrap.com/template-categories/all/)
